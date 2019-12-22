@@ -157,14 +157,8 @@ h6, .h6 {
 
 h1, .h1,
 h2, .h2,
-h3, .h3,
-h4, .h4 { 
+h3, .h3 { 
   font-family: 'LeagueGothic', sans-serif;
-}
-
-h5, .h5,
-h6, .h6{
-  font-family: 'Milo', sans-serif;
 }
 
 h1, .h1 { 
@@ -660,10 +654,7 @@ body .no-padding {
 #IDStudentsForm{ 
   height: 308px; 
 }
-#IDStudentsForm h3{ 
-  /*font-family: 'Milo', sans-serif;*/
-}
-#IDStudentsForm h4{ 
+#IDStudentsForm h6{ 
   color: #c80e2e;
 }
 #IDStudentsForm form{
