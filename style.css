@@ -652,7 +652,7 @@ body .no-padding {
 
 
 #IDStudentsForm{ 
-  height: 308px; 
+  height: 282px; 
 }
 #IDStudentsForm h6{ 
   color: #c80e2e;
@@ -690,7 +690,7 @@ body .no-padding {
 
 #IDStudents{
   overflow: scroll; 
-  height: 852px;
+  height: 918px;
 }
 
 .entry a{
