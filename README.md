@@ -2,6 +2,8 @@
 
 This repository allows UH Graduate Industrial Design students and alumni to edit the content shown in the iframe embedded on the program's page. This way, we can independently control this content and update it regularly without making requests to the school's communications team.
 
+View the live page: [Master of Science in Industrial Design](https://uh.edu/architecture/programs/graduate-programs/industrial-design/)
+
 # Getting Started
 Are you a student looking to make changes? Since this content is live, you must become a collaborator and be granted access by the admin in order to interact with the repository.
 
